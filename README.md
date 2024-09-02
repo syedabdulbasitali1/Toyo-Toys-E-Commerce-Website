@@ -49,7 +49,7 @@ Here are some screenshots of the website:
 ![Product Page](website-preview-images/toyo-toys_arivals-page.PNG)
 *Detailed view of a toy product.*
 
-![Our Services](website-preview-images/toyo-services.PNG)
+![Our Services](website-preview-images/toyo-toys_services.PNG)
 *Our Services for customers.*
 
 ![Contact Page](website-preview-images/contact.PNG)
