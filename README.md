@@ -20,7 +20,8 @@ Toyo-Toys is a responsive e-commerce website developed as part of my E-Project a
    ```bash
    git clone https://github.com/syedabdulbasitali1/Toyo-Toys-E-Commerce-Website.git
 2. Navigate to the project directory:
-bash: cd toyo-toys-ecommerce-website
+   ```bash
+    cd Toyo-Toys-E-Commerce-Website
 3. Open the index.html file in your browser to view the website 🌐.
 
 ## Usage 💡
