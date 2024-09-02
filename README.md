@@ -24,9 +24,9 @@ bash: cd toyo-toys-ecommerce-website
 3. Open the index.html file in your browser to view the website 🌐.
 
 ## Usage 💡
-Navigate through the product categories to browse items 🏷️.
-Use the search bar to find specific toys 🔍.
-Add items to the cart and proceed to checkout 🛒.
+- Navigate through the product categories to browse items 🏷️.
+- Use the search bar to find specific toys 🔍.
+- Add items to the cart and proceed to checkout 🛒.
 
 ## License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -34,8 +34,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact 📫
 For any questions or feedback, please reach out to:
 
-Email: arenag277@gmail.com 📧
-LinkedIn: www.linkedin.com/in/syedabdulbasitali 🔗
+- Email: arenag277@gmail.com 📧
+- LinkedIn: www.linkedin.com/in/syedabdulbasitali 🔗
 
 ## Screenshots 📸
 Here are some screenshots of the website:
