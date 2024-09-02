@@ -23,39 +23,39 @@ Toyo-Toys is a responsive e-commerce website developed as part of my E-Project a
 bash: cd toyo-toys-ecommerce-website
 3. Open the index.html file in your browser to view the website 🌐.
 
-Usage 💡
-Navigate through the product categories to browse items 🏷️.
-Use the search bar to find specific toys 🔍.
-Add items to the cart and proceed to checkout 🛒.
+## Usage 💡
+- Navigate through the product categories to browse items 🏷️.
+- Use the search bar to find specific toys 🔍.
+- Add items to the cart and proceed to checkout 🛒.
 
-License 📝
+## License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact 📫
+## Contact 📫
 For any questions or feedback, please reach out to:
 
-Email: arenag277@gmail.com 📧
-LinkedIn: www.linkedin.com/in/syedabdulbasitali 🔗
+- Email: arenag277@gmail.com 📧
+- LinkedIn: www.linkedin.com/in/syedabdulbasitali 🔗
 
-Screenshots 📸
+## Screenshots 📸
 Here are some screenshots of the website:
 
-![Home Page](website-preview images/toyo-toys_home.PNG)
+![Home Page](website-preview-images/toyo-toys_home.PNG)
 *Homepage view with product listings.*
 
-![About Page](website-preview images/about.PNG)
+![About Page](website-preview-images/about.PNG)
 *You can know about us.*
 
-![Product Page](website-preview images/toyo-toys_arivals-page.PNG)
+![Product Page](website-preview-images/toyo-toys_arivals-page.PNG)
 *Detailed view of a toy product.*
 
-![Our Services](website-preview images/toyo-services.PNG)
+![Our Services](website-preview-images/toyo-toys_services.PNG)
 *Our Services for customers.*
 
-![Contact Page](website-preview images/contact.PNG)
+![Contact Page](website-preview-images/contact.PNG)
 *You can contact us.*
 
-![Footer](website-preview images/footer.PNG)
+![Footer](website-preview-images/footer.PNG)
 *Footer with contact and information.*
 
  
