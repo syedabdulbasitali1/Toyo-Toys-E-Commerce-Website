@@ -18,7 +18,7 @@ Toyo-Toys is a responsive e-commerce website developed as part of my E-Project a
 ## Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/toyo-toys-ecommerce-website.git
+   git clone https://github.com/syedabdulbasitali1/Toyo-Toys-E-Commerce-Website.git
 2. Navigate to the project directory:
 bash: cd toyo-toys-ecommerce-website
 3. Open the index.html file in your browser to view the website 🌐.
@@ -39,5 +39,23 @@ LinkedIn: www.linkedin.com/in/syedabdulbasitali 🔗
 
 Screenshots 📸
 Here are some screenshots of the website:
+
+![Home Page](website-preview images/toyo-toys_home.PNG)
+*Homepage view with product listings.*
+
+![About Page](website-preview images/about.PNG)
+*You can know about us.*
+
+![Product Page](website-preview images/toyo-toys_arivals-page.PNG)
+*Detailed view of a toy product.*
+
+![Our Services](website-preview images/toyo-services.PNG)
+*Our Services for customers.*
+
+![Contact Page](website-preview images/contact.PNG)
+*You can contact us.*
+
+![Footer](website-preview images/footer.PNG)
+*Footer with contact and information.*
 
  
