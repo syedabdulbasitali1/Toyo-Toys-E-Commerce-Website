@@ -32,11 +32,6 @@ Toyo-Toys is a responsive e-commerce website developed as part of my E-Project a
 ## License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact 📫
-For any questions or feedback, please reach out to:
-
-- Email: arenag277@gmail.com 📧
-- LinkedIn: www.linkedin.com/in/syedabdulbasitali 🔗
 
 ## Screenshots 📸
 Here are some screenshots of the website:
@@ -59,4 +54,15 @@ Here are some screenshots of the website:
 ![Footer](website-preview-images/footer.PNG)
 *Footer with contact and information.*
 
- 
+ ## Contact 📫
+
+Feel free to reach out for any questions, feedback, or collaboration opportunities:
+
+- ![Email Icon](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)    [arenag277@gmail.com](mailto:arenag277@gmail.com) 
+- ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [Syed Abdul Basit Ali](https://www.linkedin.com/in/syedabdulbasitali1) 
+- ![GitHub Icon](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) [GitHub Profile](https://github.com/syedabdulbasitali1) 
+- ![Dev Community Icon](https://img.shields.io/badge/DevCommunity-%230A0A0A?style=flat-square&logo=dev&logoColor=white) [Your Profile](https://dev.to/syedabdulbasitali) 
+- ![X Icon](https://img.shields.io/badge/X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white) [@YourUsername](https://x.com/syedabdulbasitali) 
+- ![YouTube Icon](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white) [Your Channel](https://www.youtube.com/channel/yourchannelid) 
+- ![Facebook Icon](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white) [Your Profile](https://www.facebook.com/syedabdulbasitali) 
+
