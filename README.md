@@ -54,15 +54,13 @@ Here are some screenshots of the website:
 ![Footer](website-preview-images/footer.PNG)
 *Footer with contact and information.*
 
- ## Contact 📫
+ ## Contact 📞
 
-Feel free to reach out for any questions, feedback, or collaboration opportunities:
-
-- ![Email Icon](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)               [arenag277@gmail.com](mailto:arenag277@gmail.com) 
-- ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)      [Syed Abdul Basit Ali](https://www.linkedin.com/in/syedabdulbasitali1) 
-- ![GitHub Icon](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)            [GitHub Profile](https://github.com/syedabdulbasitali1) 
-- ![Dev Community Icon](https://img.shields.io/badge/DevCommunity-%230A0A0A?style=flat-square&logo=dev&logoColor=white)  [Your Profile](https://dev.to/syedabdulbasitali) 
-- ![X Icon](https://img.shields.io/badge/X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)                     [@YourUsername](https://x.com/syedabdulbasitali) 
-- ![YouTube Icon](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white)         [Your Channel](https://www.youtube.com/channel/yourchannelid) 
-- ![Facebook Icon](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)      [Your Profile](https://www.facebook.com/syedabdulbasitali) 
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="18" height="18"/> **Email:** [arenag277@gmail.com](mailto:arenag277@gmail.com)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="18" height="18"/> **LinkedIn:** [Syed Abdul Basit Ali](https://www.linkedin.com/in/your-profile)
+- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="18" height="18"/> **GitHub:** [GitHub Profile](https://github.com/yourusername)
+- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111705.png" alt="Dev Community" width="18" height="18"/> **Dev Community:** [Your Profile](https://dev.to/yourprofile)
+- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="18" height="18"/> **X (Twitter):** [@YourUsername](https://twitter.com/yourusername)
+- <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="18" height="18"/> **YouTube:** [Your Channel](https://www.youtube.com/yourchannel)
+- <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="18" height="18"/> **Facebook:** [Your Profile](https://facebook.com/yourprofile)
 
